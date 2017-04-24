@@ -1,1 +1,2 @@
 #include "contiki.h"
+test
